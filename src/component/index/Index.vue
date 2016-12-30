@@ -3,7 +3,7 @@
         <div class="warp-top">
             <div class="warp-left">
                 <div class="logo">
-                    <router-link to=""><img src="src/assets/images/logo.png"></router-link>
+                    <router-link to=""><img src="../../assets/images/logo.png"></router-link>
                 </div>
                 <div class="nav">
                     <a class="nav-item active">

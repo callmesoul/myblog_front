@@ -10,7 +10,7 @@
                     <swiper-slide>
                         <a class="article-item">
                             <div class="image">
-                                <img src="src/assets/images/article.jpg">
+                                <img src="../../assets/images/article.jpg">
                             </div>
                             <div class="content">
                                 <div class="title">开博啦！开博啦！踏上大神的第一</div>
@@ -28,7 +28,7 @@
                     <swiper-slide>
                         <a class="article-item">
                             <div class="image">
-                                <img src="src/assets/images/article.jpg">
+                                <img src="../../assets/images/article.jpg">
                             </div>
                             <div class="content">
                                 <div class="title">开博啦！开博啦！踏上大神的第一</div>
@@ -46,7 +46,7 @@
                     <swiper-slide>
                         <a class="article-item">
                             <div class="image">
-                                <img src="src/assets/images/article.jpg">
+                                <img src="../../assets/images/article.jpg">
                             </div>
                             <div class="content">
                                 <div class="title">开博啦！开博啦！踏上大神的第一</div>
@@ -64,7 +64,7 @@
                     <swiper-slide>
                         <a class="article-item">
                             <div class="image">
-                                <img src="src/assets/images/article.jpg">
+                                <img src="../../assets/images/article.jpg">
                             </div>
                             <div class="content">
                                 <div class="title">开博啦！开博啦！踏上大神的第一</div>
@@ -82,7 +82,7 @@
                     <swiper-slide>
                         <a class="article-item">
                             <div class="image">
-                                <img src="src/assets/images/article.jpg">
+                                <img src="../../assets/images/article.jpg">
                             </div>
                             <div class="content">
                                 <div class="title">开博啦！开博啦！踏上大神的第一</div>
@@ -100,7 +100,7 @@
                     <swiper-slide>
                         <a class="article-item">
                             <div class="image">
-                                <img src="src/assets/images/article.jpg">
+                                <img src="../../assets/images/article.jpg">
                             </div>
                             <div class="content">
                                 <div class="title">开博啦！开博啦！踏上大神的第一</div>
@@ -118,7 +118,7 @@
                     <swiper-slide>
                         <a class="article-item">
                             <div class="image">
-                                <img src="src/assets/images/article.jpg">
+                                <img src="../../assets/images/article.jpg">
                             </div>
                             <div class="content">
                                 <div class="title">开博啦！开博啦！踏上大神的第一</div>
@@ -136,7 +136,7 @@
                     <swiper-slide>
                         <a class="article-item">
                             <div class="image">
-                                <img src="src/assets/images/article.jpg">
+                                <img src="../../assets/images/article.jpg">
                             </div>
                             <div class="content">
                                 <div class="title">开博啦！开博啦！踏上大神的第一</div>
@@ -154,7 +154,7 @@
                     <swiper-slide>
                         <a class="article-item">
                             <div class="image">
-                                <img src="src/assets/images/article.jpg">
+                                <img src="../../assets/images/article.jpg">
                             </div>
                             <div class="content">
                                 <div class="title">开博啦！开博啦！踏上大神的第一</div>
@@ -172,7 +172,7 @@
                     <swiper-slide>
                         <a class="article-item">
                             <div class="image">
-                                <img src="src/assets/images/article.jpg">
+                                <img src="../../assets/images/article.jpg">
                             </div>
                             <div class="content">
                                 <div class="title">开博啦！开博啦！踏上大神的第一</div>
@@ -190,7 +190,7 @@
                     <swiper-slide>
                         <a class="article-item">
                             <div class="image">
-                                <img src="src/assets/images/article.jpg">
+                                <img src="../../assets/images/article.jpg">
                             </div>
                             <div class="content">
                                 <div class="title">开博啦！开博啦！踏上大神的第一</div>
@@ -208,7 +208,7 @@
                     <swiper-slide>
                         <a class="article-item">
                             <div class="image">
-                                <img src="src/assets/images/article.jpg">
+                                <img src="../../assets/images/article.jpg">
                             </div>
                             <div class="content">
                                 <div class="title">开博啦！开博啦！踏上大神的第一</div>

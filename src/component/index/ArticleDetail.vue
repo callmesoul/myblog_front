@@ -10,7 +10,7 @@
                 </span>
                 </div>
                 <div class="image">
-                    <img src="src/assets/images/articledetail.jpg">
+                    <img src="../../assets/images/articledetail.jpg">
                 </div>
 
                 <div class="content">
@@ -27,7 +27,7 @@
                     </div>
                     <div class="comment-list">
                         <div class="comment-item">
-                            <div class="avatar"><img src="src/assets/images/avatar.jpg"></div>
+                            <div class="avatar"><img src="../../assets/images/avatar.jpg"></div>
                             <div class="right">
                                 <div class="cont">
                                     <div class="content">
@@ -65,27 +65,27 @@
 
                 <div class="recommend-list">
                     <a class="recommend-item">
-                        <div class="image"><img src="src/assets/images/article.jpg"> </div>
+                        <div class="image"><img src="../../assets/images/article.jpg"> </div>
                         <div class="title"> 开博啦！开博啦！踏上大神的第一步</div>
                         <div class="time"> 2015/12/25</div>
                     </a>
                     <a class="recommend-item">
-                        <div class="image"><img src="src/assets/images/article.jpg"> </div>
+                        <div class="image"><img src="../../assets/images/article.jpg"> </div>
                         <div class="title"> 开博啦！开博啦！踏上大神的第一步</div>
                         <div class="time"> 2015/12/25</div>
                     </a>
                     <a class="recommend-item">
-                        <div class="image"><img src="src/assets/images/article.jpg"> </div>
+                        <div class="image"><img src="../../assets/images/article.jpg"> </div>
                         <div class="title"> 开博啦！开博啦！踏上大神的第一步</div>
                         <div class="time"> 2015/12/25</div>
                     </a>
                     <a class="recommend-item">
-                        <div class="image"><img src="src/assets/images/article.jpg"> </div>
+                        <div class="image"><img src="../../assets/images/article.jpg"> </div>
                         <div class="title"> 开博啦！开博啦！踏上大神的第一步</div>
                         <div class="time"> 2015/12/25</div>
                     </a>
                     <a class="recommend-item">
-                        <div class="image"><img src="src/assets/images/article.jpg"> </div>
+                        <div class="image"><img src="../../assets/images/article.jpg"> </div>
                         <div class="title"> 开博啦！开博啦！踏上大神的第一步</div>
                         <div class="time"> 2015/12/25</div>
                     </a>
